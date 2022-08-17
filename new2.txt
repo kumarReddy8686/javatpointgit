@@ -2,4 +2,12 @@ public class Strings{
 	String m ="java";
 	int j=89;
 	double d =89.87;
+	system.out.println("hello this is strings class");
+what am i looking for is main method for execution of the program.
+public static void main(String[] args){
+
+String s = new Strings();
+sysout(s.m);
+
+}
 }
