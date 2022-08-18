@@ -8,6 +8,6 @@ public static void main(String[] args){
 
 String s = new Strings();
 sysout(s.m);
-
+R is good for statistical analysis of data.because it has good statistical analysis packages.
 }
 }
